@@ -36,6 +36,14 @@ https://wokwi.com/projects/410213523166693377
 
 
 ## Link de la Simulacion de Interfaz Gráfica y Feedback:
-https://wokwi.com/projects/410227545790051329
+https://wokwi.com/projects/420476867650120705
 
 
+
+## Imagen de la captura de cisco c
+![image](https://github.com/user-attachments/assets/571b9ac8-cbb7-4cb7-baf7-4079c448bd2c)
+![image](https://github.com/user-attachments/assets/55891139-7460-4ec5-b6f5-747d7e50b86b)
+![image](https://github.com/user-attachments/assets/ebe707fd-1d37-4687-8cf8-772487000206)
+![image](https://github.com/user-attachments/assets/0e98a4d0-8e44-4624-8757-7be5cbe64212)
+![image](https://github.com/user-attachments/assets/f829f259-f523-4038-ac7d-dd7eb7781369)
+![image](https://github.com/user-attachments/assets/f662d001-8be4-4e89-83de-b93faa5a9f21)
