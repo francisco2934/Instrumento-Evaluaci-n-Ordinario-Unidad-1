@@ -30,6 +30,7 @@ El código permite que Mickey Mouse interactúe con el entorno de manera diverti
 |--|--|
 |Thonny|	3.3.0|
 
+Desarrolla un sistema que simule el monitoreo y control de condiciones ambientales (temperatura y luz) en una vivienda inteligente. El sistema debe mostrar la información en pantallas LCD y OLED y permitir la interacción con botones físicos y controles táctiles.
 
 ## Link de la Simulacion
 https://wokwi.com/projects/410213523166693377
